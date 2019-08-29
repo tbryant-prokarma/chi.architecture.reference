@@ -1,1 +1,1 @@
-chi.architecture.reference
+example
